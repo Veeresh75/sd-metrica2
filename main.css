@@ -114,6 +114,9 @@ a.btn {
     margin-top: 30px;
     display: inline-block;
     padding: 20px 40px;
+    font-size: 20px;
+    width: 255px;
+    height: 67px;
     background: #AD1818;
     border-radius: 5px;
     letter-spacing: -0.03em;
